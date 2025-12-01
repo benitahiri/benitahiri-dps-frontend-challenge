@@ -49,3 +49,17 @@ Please include a small artifact folder or a markdown section with:
 This helps us understand your workflow and decision-making process, not to judge AI usage.
 
 Happy coding!
+
+# DPS React Challenge
+
+## Features
+- User list from API
+- Filter by name
+- Filter by city
+- Highlight oldest user per city
+- Optional debounce
+
+## Run locally
+npm install
+npm run dev
+
